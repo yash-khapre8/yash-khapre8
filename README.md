@@ -25,7 +25,7 @@
  <a href="https://github.com/yash-khapre8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash khapre" height="30" width="40"></a>
 </p>
 <br>
-<a href="https://www.figma.com/proto/02Cmb72pO5VBSVAENukCcq/Portolio-YASH?node-id=371-27&p=f&t=4q26SLNtuQ7ygL4N-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=371%3A27">Portfolio</a>
+<a href="https://www.figma.com/proto/02Cmb72pO5VBSVAENukCcq/Portolio-YASH?node-id=371-27&p=f&t=4q26SLNtuQ7ygL4N-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=371%3A27">Portfolio</a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
