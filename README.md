@@ -3,10 +3,11 @@
 <p align="center">
     I'm a <b>Tech enthusiast</b>, <b>Full-stack developer</b> and <b>Cloud Engineer</b> from India. I have an enormous passion for programming, and I'm a huge believer in the power of technology to reach new heights. 
 </p>
+
 <p align="center">
     I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways I do so. I believe that open-source is the future of software development, and I am excited to be a part of this community.
 </p>
-
+<img width="175" height="175" alt="aws-educate-introduction-to-cloud-101-training-badg" src="https://github.com/user-attachments/assets/98c88927-4185-4331-a583-03c9bb281f18" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shuklaa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
