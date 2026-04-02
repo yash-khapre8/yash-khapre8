@@ -1,4 +1,4 @@
-[![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)](https://nikhilshukla.dev)</br>
+[![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)])</br>
 <h3 align="center">Hellloooooooooo :)</h3>
 <p align="center">
     I'm a <b>Tech enthusiast</b>, <b>Full-stack developer</b> and <b>Cloud Engineer</b> from India. I have an enormous passion for programming, and I'm a huge believer in the power of technology to reach new heights. 
