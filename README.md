@@ -7,7 +7,13 @@
 <p align="center">
     I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways I do so. I believe that open-source is the future of software development, and I am excited to be a part of this community.
 </p>
-<img width="175" height="175" alt="aws-educate-introduction-to-cloud-101-training-badg" src="https://github.com/user-attachments/assets/98c88927-4185-4331-a583-03c9bb281f18" />
+
+<img width="138" height="138" alt="aws-educate-introduction-to-cloud-101-training-badg" src="https://github.com/user-attachments/assets/98c88927-4185-4331-a583-03c9bb281f18" />
+
+
+<img width="138" height="138" alt="aws-educate-getting-started-with-storage-training-b" src="https://github.com/user-attachments/assets/51d908ac-dad2-420e-b6b6-368d315fcd77" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shuklaa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
