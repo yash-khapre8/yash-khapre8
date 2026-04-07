@@ -12,7 +12,9 @@
 
 
 <img width="138" height="138" alt="aws-educate-getting-started-with-storage-training-b" src="https://github.com/user-attachments/assets/51d908ac-dad2-420e-b6b6-368d315fcd77" />
-<img width="138" height="138" alt="blob" src="https://github.com/user-attachments/assets/de5b16a4-8624-423e-a194-2447ee6324b5" />
+<!-- <img width="138" height="138" alt="blob" src="https://github.com/user-attachments/assets/de5b16a4-8624-423e-a194-2447ee6324b5" /> -->
+<img width="138" height="138" alt="aws-educate-getting-started-with-compute-training-b" src="https://github.com/user-attachments/assets/a61cb3c8-ed9f-44fe-add7-92a3db7c2dee" />
+
 
 
 
